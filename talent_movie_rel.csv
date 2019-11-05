@@ -1,0 +1,696 @@
+:START_ID(Talent-ID),:TYPE,:END_ID(Movie-ID),Role
+31,Acts,862,Woody (voice)
+12898,Acts,862,Buzz Lightyear (voice)
+7167,Acts,862,Mr. Potato Head (voice)
+12899,Acts,862,Slinky Dog (voice)
+12900,Acts,862,Rex (voice)
+7907,Acts,862,Hamm (voice)
+8873,Acts,862,Bo Peep (voice)
+1116442,Acts,862,Andy (voice)
+12901,Acts,862,Sid (voice)
+12133,Acts,862,Mrs. Davis (voice)
+8655,Acts,862,Sergeant (voice)
+12903,Acts,862,Hannah (voice)
+37221,Acts,862,TV Announcer (voice)
+6837,Acts,15602,Max Goldman
+3151,Acts,15602,John Gustafson
+13567,Acts,15602,Ariel Gustafson
+16757,Acts,15602,Maria Sophia Coletta Ragetti
+589,Acts,15602,Melanie Gustafson
+16523,Acts,15602,Grandpa Gustafson
+7166,Acts,15602,Jacob Goldman
+67773,Acts,11862,George Banks
+3092,Acts,11862,Nina Banks
+519,Acts,11862,Franck Eggelhoffer
+70696,Acts,11862,Annie Banks-MacKenzie
+59222,Acts,11862,Bryan MacKenzie
+18793,Acts,11862,Matty Banks
+14592,Acts,11862,Howard Weinstein
+20906,Acts,11862,John MacKenzie
+54348,Acts,11862,Joanna MacKenzie
+209,Acts,11862,Dr. Megan Eisenberg
+26510,Acts,11862,Mr. Habib
+24358,Acts,11862,Wife Mrs. Habib
+1158,Acts,949,Lt. Vincent Hanna
+380,Acts,949,Neil McCauley
+5576,Acts,949,Chris Shiherlis
+10127,Acts,949,Nate
+3197,Acts,949,Michael Cheritto
+6200,Acts,949,Justine Hanna
+15851,Acts,949,Eady
+15852,Acts,949,Charlene Shiherlis
+34,Acts,949,Sergeant Drucker
+524,Acts,949,Lauren Gustafson
+15854,Acts,949,Bosko
+119232,Acts,949,Kelso
+31004,Acts,949,Richard Torena
+5587,Acts,949,Alan Marciano
+15853,Acts,949,Detective Casals
+352,Acts,949,Donald Breedan
+11160,Acts,949,Trejo
+9290,Acts,949,Hugh Benny
+886,Acts,949,Roger Van Zant
+34839,Acts,949,Waingro
+4158,Acts,949,Elaine Cheritto
+86602,Acts,949,Schwartz
+158452,Acts,949,Albert Torena
+12799,Acts,949,Dr. Bob
+3982,Acts,949,Ralph
+181343,Acts,949,Anna Trejo
+81687,Acts,949,Armoured Guard
+91756,Acts,949,Hooker's Mother
+160970,Acts,949,Timmons
+175600,Acts,949,Shooter at Drive-in
+12879,Acts,949,Driver at Drive-in
+9258,Acts,949,Officer Bruce
+167501,Acts,949,Claudia
+95145,Acts,949,Bosko's Date
+58535,Acts,949,Sergeant Heinz
+161939,Acts,949,Rachel
+6580,Acts,949,Captain Jackson
+95796,Acts,949,Harry Dieter
+166543,Acts,949,Bank Guard
+43010,Acts,949,Armoured Truck Driver
+37252,Acts,949,Hostage Girl
+1457709,Acts,949,1st SIS Detective in the hallway (uncredited)
+4971,Acts,949,Solenko, Restaurant Manager (uncredited)
+941147,Acts,949,Castilian Woman (uncredited)
+17358,Acts,949,Lillian
+4790,Acts,949,Construction Clerk
+1090464,Acts,949,Children's Hospital Doctor
+1090465,Acts,949,Dominick
+1576419,Acts,949,Bartender
+106714,Acts,949,Casals' Date
+116153,Acts,949,Marcia Drucker
+237923,Acts,949,Armoured Guard
+4047,Acts,949,Basketball Player
+57347,Acts,949,Children's Hospital Nurse
+1576553,Acts,949,Detective
+218094,Acts,949,Prostitute
+1491009,Acts,949,Bar Couple (uncredited)
+1137847,Acts,949,Restaurant Patron (uncredited)
+1504112,Acts,949,Police Woman (uncredited)
+1504568,Acts,949,Grocery Store Employee (uncredited)
+20625,Acts,949,Cusamano (uncredited)
+1502517,Acts,949,Grocery Store Cop (uncredited)
+114625,Acts,949,Waitress (uncredited)
+1576562,Acts,949,Bank Guard (uncredited)
+1584544,Acts,949,Ellis (uncredited)
+3,Acts,11860,Linus Larrabee
+15887,Acts,11860,Sabrina Fairchild
+17141,Acts,11860,David Larrabee
+4301,Acts,11860,Mrs. Ingrid Tyson
+12957,Acts,11860,Maude Larrabee
+8937,Acts,11860,Fairchild
+16554,Acts,11860,Patrick Tyson
+34485,Acts,11860,Elizabeth Tyson
+13314,Acts,11860,Mack
+20234,Acts,11860,Irene
+73827,Acts,11860,Louis
+13242,Acts,11860,Scott
+1163,Acts,11860,Rosa
+138242,Acts,11860,Joanna
+62531,Acts,11860,Martine
+59206,Acts,11860,Linda
+163775,Acts,11860,Ron
+452,Acts,11860,Nurse
+52475,Acts,11860,Carol
+1853632,Acts,11860,Ticket Taker
+1853633,Acts,11860,Singer at Larrabee Party
+153226,Acts,11860,Butler
+1853634,Acts,11860,Red Head
+28029,Acts,11860,Bartender
+1853638,Acts,11860,Kelly
+97364,Acts,11860,India
+1317065,Acts,11860,Make-Up Assistant
+6554,Acts,11860,Assistant
+37918,Acts,11860,Model
+1217813,Acts,11860,Model
+1853644,Acts,11860,Model
+1115935,Acts,11860,Model
+1853645,Acts,11860,Model
+1853646,Acts,11860,Model
+76093,Acts,11860,Paris Friend
+1853647,Acts,11860,Paris Friend
+1853651,Acts,11860,Paris Friend
+1853653,Acts,11860,Paris Friend
+1460738,Acts,11860,Paris Friend
+1853654,Acts,11860,Paris Friend
+1632066,Acts,11860,Helicopter Pilot
+1853655,Acts,11860,Gulf Stream Pilot
+4184,Acts,11860,Sheik
+1853657,Acts,11860,Tyson Butler
+1853658,Acts,11860,Mother in Hospital
+1357100,Acts,11860,Father in Hospital
+157428,Acts,11860,Trainer
+1211979,Acts,11860,Secretary
+1853660,Acts,11860,Moroccan Waiter
+1853661,Acts,11860,Senator
+1548251,Acts,11860,Japanese Businessman (uncredited)
+1221663,Acts,11860,Airport Employee (uncredited)
+1811338,Acts,11860,Head Butler (uncredited)
+1853663,Acts,11860,Businessman in Window (uncredited)
+1099770,Acts,11860,Wedding Guest (uncredited)
+1853664,Acts,11860,Pizza Patron (uncredited)
+1853665,Acts,11860,Ballroom Dancer (uncredited)
+53283,Acts,45325,Tom Sawyer
+51214,Acts,45325,Huck Finn
+38581,Acts,45325,Becky Thatcher
+8316,Acts,45325,Muff Potter
+87007,Acts,45325,Aunt Polly
+57448,Acts,45325,Injun Joe
+102313,Acts,45325,Townsperson
+15111,Acts,9091,Darren Francis Thomas McCord
+6280,Acts,9091,Joshua Foss
+8656,Acts,9091,Matthew Hallmark
+10361,Acts,9091,Vizepräsident Daniel Bender
+12928,Acts,9091,Tyler
+79088,Acts,9091,Emily McCord
+517,Acts,710,James Bond
+48,Acts,710,Alec Trevelyan
+10695,Acts,710,Natalya Fyodorovna Simonova
+10696,Acts,710,Xenia Onatopp
+10671,Acts,710,Jack Wade
+5309,Acts,710,M
+3757,Acts,710,General Arkady Grigorovich Ourumov
+1923,Acts,710,Valentin Dmitrovich Zukovsky
+10697,Acts,710,Boris Grishenko
+10698,Acts,710,Defense Minister Dmitri Mishkin
+9906,Acts,710,Q
+10699,Acts,710,Miss Moneypenny
+10648,Acts,710,Bill Tanner
+10700,Acts,710,Caroline
+10701,Acts,710,Severnaya Duty Officer
+55911,Acts,710,Admiral Chuck Farrell
+27425,Acts,710,Computer Store Manager
+6613,Acts,710,Irina
+29054,Acts,710,Anna
+41742,Acts,710,Mig Pilot
+3392,Acts,9087,Andrew Shepherd
+516,Acts,9087,Sydney Ellen Wade
+521,Acts,9087,Lewis Rothschild
+8349,Acts,9087,A.J. MacInerney
+63279,Acts,9087,Robin McCall
+112080,Acts,9087,Lucy Shepherd
+20767,Acts,9087,Janie Basdin
+19839,Acts,9087,Leon Kodak
+3037,Acts,9087,Senator Bob Rumson
+42133,Acts,9087,Beth Wade
+61980,Acts,9087,Susan Sloan
+78494,Acts,9087,Agent Cooper
+42003,Acts,9087,Esther MacInerney
+131642,Acts,9087,David
+43115,Acts,9087,President René Jean D'Astier
+4251,Acts,9087,Leo Solomon
+43978,Acts,9087,Chairman of the Joint Chiefs
+92808,Acts,9087,Jeff
+7633,Acts,12110,Count Dracula
+14639,Acts,12110,Prof. Abraham Van Helsing
+1219,Acts,12110,Mina Seward
+12688,Acts,12110,Thomas Renfield
+12812,Acts,12110,Lucy Westenra
+13640,Acts,12110,Dr. Jack Seward
+6106,Acts,12110,Jonathan Harker
+29709,Acts,12110,Martin
+53570,Acts,12110,Essie
+170185,Acts,12110,Woodbridge
+10774,Acts,12110,Madame Ouspenskaya
+16935,Acts,1408,Morgan Adams
+8654,Acts,1408,William Shaw
+8924,Acts,1408,Dawg
+7868,Acts,1408,John Reed
+8979,Acts,1408,Ainstee
+16936,Acts,1408,Glasspoole
+16937,Acts,1408,Mr. Blair
+13925,Acts,1408,Snelgrave
+35769,Acts,1408,Bowen
+133771,Acts,1408,Scully
+1166,Acts,1408,Black Harry
+127166,Acts,1408,Bishop
+1220350,Acts,1408,Fiddler Pirate
+1252814,Acts,1408,Captain Trotter
+91662,Acts,1408,Toussant
+31294,Acts,1408,Lady
+17202,Acts,1408,Lieutenant
+1649736,Acts,1408,Auctioneer
+90625,Acts,1408,Mordachai Fingers
+1117347,Acts,1408,Bartender
+1495190,Acts,1408,Executioner
+1466675,Acts,1408,Hastings
+1420324,Acts,1408,Helmsman
+16792,Acts,1408,Snake the Lookout
+2480,Acts,1408,Fleming
+2479,Acts,1408,Captain Perkins
+19704,Acts,1408,Dawg's Pirate
+1715,Acts,1408,Dawg's Pirate
+1221761,Acts,1408,Dawg's Pirate
+178622,Acts,1408,Dawg's Pirate
+64102,Acts,1408,Dawg's Pirate
+204,Acts,4584,Marianne Dashwood
+7056,Acts,4584,Elinor Dashwood
+3291,Acts,4584,Edward Ferrars
+207,Acts,4584,Mr. Dashwood
+4566,Acts,4584,Col. Christopher Brandon
+20769,Acts,4584,Lucy Steele
+16700,Acts,4584,John Willoughby
+41419,Acts,4584,Mr. Palmer
+11356,Acts,4584,Charlotte Jennings Palmer
+23076,Acts,4584,Sir John Middleton
+31923,Acts,4584,Doctor Harris
+10726,Acts,4584,John Dashwood
+17477,Acts,4584,Fanny Ferrars Dashwood
+9138,Acts,4584,Mrs. Dashwood
+937907,Acts,4584,Margaret Dashwood
+1220119,Acts,4584,Mrs. Jennings
+141551,Acts,4584,Robert Ferrars
+3129,Acts,5,Ted the Bellhop
+3131,Acts,5,Man
+3130,Acts,5,Angela
+3125,Acts,5,Elspeth
+3141,Acts,5,Margaret
+62,Acts,5,Leo
+138,Acts,5,Chester Rush
+3122,Acts,5,Jezebel
+3123,Acts,5,Diana
+3124,Acts,5,Athena
+3127,Acts,5,Raven
+2545,Acts,5,Long Hair Yuppy Scum
+3126,Acts,5,Eva
+3128,Acts,5,Kiva
+2555,Acts,5,Siegfried
+3132,Acts,5,Sarah
+3134,Acts,5,Wife
+3138,Acts,5,Betty
+3137,Acts,5,Norman
+3136,Acts,5,TV Dancing Girl
+3133,Acts,5,Corpse
+3135,Acts,5,Juancho
+37336,Acts,5,Hooker
+3140,Acts,5,Sam the Bellhop7879,Supports,862,Director
+12891,Supports,862,Screenplay
+7,Supports,862,Screenplay
+12892,Supports,862,Screenplay
+12893,Supports,862,Screenplay
+12894,Supports,862,Producer
+12895,Supports,862,Executive Producer
+12896,Supports,862,Producer
+12897,Supports,862,Executive Producer
+8,Supports,862,Editor
+7883,Supports,862,Art Direction
+1168870,Supports,862,Editor
+1552883,Supports,862,Foley Editor
+1453514,Supports,862,Animation
+1414182,Supports,862,ADR Editor
+7885,Supports,862,Orchestrator
+1429549,Supports,862,Color Timer
+7949,Supports,862,CG Painter
+7879,Supports,862,Original Story
+12890,Supports,862,Original Story
+7911,Supports,862,Original Story
+1629419,Supports,862,Post Production Supervisor
+7961,Supports,862,Sculptor
+12905,Supports,862,Animation Director
+7885,Supports,862,Music
+1748707,Supports,862,Layout
+4949,Supports,862,Orchestrator
+1372885,Supports,862,Music Editor
+1739962,Supports,862,Negative Cutter
+1748513,Supports,862,Negative Cutter
+1458006,Supports,862,Title Designer
+1748557,Supports,862,Supervising Technical Director
+7885,Supports,862,Songs
+7,Supports,862,Original Story
+12890,Supports,862,Supervising Animator
+2216,Supports,862,Sound Designer
+12909,Supports,862,Production Supervisor
+953331,Supports,862,Executive Music Producer
+7893,Supports,862,Animation Director
+8025,Supports,862,Animation
+78009,Supports,862,Animation
+1748682,Supports,862,Animation
+1454030,Supports,862,Animation
+1748683,Supports,862,Animation
+1748684,Supports,862,Animation
+8029,Supports,862,Animation
+1426773,Supports,862,Animation
+8035,Supports,862,Animation
+1748688,Supports,862,Animation
+587314,Supports,862,Animation
+7918,Supports,862,Animation
+1748689,Supports,862,Animation
+7892,Supports,862,Animation
+555795,Supports,862,Animation
+7882,Supports,862,Animation
+8017,Supports,862,Animation
+1184140,Supports,862,Animation
+8049,Supports,862,Animation
+1509559,Supports,862,Animation
+1748691,Supports,862,Animation
+8050,Supports,862,Animation
+8010,Supports,862,Animation
+8044,Supports,862,Animation
+1454034,Supports,862,Animation
+7887,Supports,862,Visual Effects Supervisor
+1406878,Supports,862,Visual Effects
+1748698,Supports,862,Visual Effects
+1748699,Supports,862,Visual Effects
+1748701,Supports,862,Visual Effects
+1748703,Supports,862,Visual Effects
+12912,Supports,862,Lighting Supervisor
+7899,Supports,862,Lighting Supervisor
+12915,Supports,862,CG Painter
+1748705,Supports,862,Sculptor
+7889,Supports,862,Character Designer
+7918,Supports,862,Character Designer
+7,Supports,862,Character Designer
+12915,Supports,862,Character Designer
+1748706,Supports,862,Character Designer
+1176752,Supports,862,Character Designer
+1088034,Supports,862,Character Designer
+1447465,Supports,862,Character Designer
+1748709,Supports,862,Layout
+1748710,Supports,862,Set Dresser
+1443471,Supports,862,Set Dresser
+1748711,Supports,862,Set Dresser
+1748712,Supports,862,Editorial Manager
+1589729,Supports,862,Assistant Editor
+1748716,Supports,862,Assistant Editor
+1748717,Supports,862,Assistant Editor
+1336438,Supports,862,Assistant Editor
+1748718,Supports,862,Editorial Coordinator
+1748719,Supports,862,Production Coordinator
+1748720,Supports,862,Production Coordinator
+1468014,Supports,862,Unit Publicist
+2216,Supports,862,Sound Re-Recording Mixer
+1425978,Supports,862,Sound Re-Recording Mixer
+8276,Supports,862,Supervising Sound Editor
+7069,Supports,862,Sound Effects Editor
+15894,Supports,862,Sound Design Assistant
+1414177,Supports,862,Assistant Sound Editor
+1748724,Supports,862,Assistant Sound Editor
+1748725,Supports,862,Assistant Sound Editor
+8067,Supports,862,Assistant Sound Editor
+7902,Supports,862,Casting Consultant
+84493,Supports,862,ADR Voice Casting
+511,Supports,8844,Executive Producer
+876,Supports,8844,Screenplay
+1729,Supports,8844,Original Music Composer
+4945,Supports,8844,Director
+4951,Supports,8844,Editor
+4952,Supports,8844,Casting
+8023,Supports,8844,Animation Supervisor
+9967,Supports,8844,Production Design
+9184,Supports,8844,Producer
+9196,Supports,8844,Executive Producer
+18389,Supports,8844,Executive Producer
+11371,Supports,8844,Director of Photography
+42356,Supports,8844,Novel
+42357,Supports,8844,Producer
+56520,Supports,8844,Screenplay
+56521,Supports,8844,Screenplay
+26502,Supports,15602,Director
+16837,Supports,15602,Characters
+16837,Supports,15602,Writer
+1551320,Supports,15602,Sound Recordist
+2178,Supports,31357,Director
+5144,Supports,31357,Screenplay
+5144,Supports,31357,Producer
+21968,Supports,31357,Producer
+70592,Supports,31357,Producer
+111118,Supports,31357,Screenplay
+111118,Supports,31357,Executive Producer
+111118,Supports,31357,Novel
+1079697,Supports,31357,Original Music Composer
+1087695,Supports,31357,Producer
+37,Supports,11862,Original Music Composer
+5506,Supports,11862,Director of Photography
+17698,Supports,11862,Screenplay
+17698,Supports,11862,Producer
+26160,Supports,11862,Screenplay
+56106,Supports,11862,Director
+68755,Supports,11862,Editor
+638,Supports,949,Director
+638,Supports,949,Screenplay
+1254,Supports,949,Producer
+638,Supports,949,Producer
+5581,Supports,949,Original Music Composer
+11099,Supports,949,Director of Photography
+15840,Supports,949,Editor
+15841,Supports,949,Editor
+15842,Supports,949,Editor
+1047,Supports,949,Editor
+897,Supports,949,Casting
+11411,Supports,949,Production Design
+15843,Supports,949,Art Direction
+8527,Supports,949,Costume Design
+1305,Supports,949,Music Editor
+14765,Supports,949,Supervising Sound Editor
+15847,Supports,949,Special Effects Coordinator
+15848,Supports,949,Special Effects
+15849,Supports,949,Visual Effects Supervisor
+13458,Supports,949,Stunt Coordinator
+15850,Supports,949,Stunts
+13677,Supports,949,Set Decoration
+1535950,Supports,949,Costume Supervisor
+1478953,Supports,949,Script Supervisor
+1424046,Supports,949,Casting
+1550830,Supports,949,Special Effects
+1479277,Supports,949,Art Department Coordinator
+4727,Supports,949,Assistant Art Director
+1404308,Supports,949,Construction Coordinator
+1535949,Supports,949,Assistant Costume Designer
+8870,Supports,949,Hairstylist
+16551,Supports,949,Hairstylist
+15846,Supports,949,Key Hair Stylist
+15845,Supports,949,Makeup Artist
+14653,Supports,949,Makeup Artist
+1535951,Supports,949,Dialogue Editor
+1391385,Supports,949,Dialogue Editor
+1406826,Supports,949,Dialogue Editor
+1392084,Supports,949,Supervising Sound Editor
+1392901,Supports,949,Dialogue Editor
+1409831,Supports,949,Camera Operator
+21118,Supports,949,Steadicam Operator
+1412205,Supports,949,Still Photographer
+1403479,Supports,949,First Assistant Camera
+1347763,Supports,949,First Assistant Camera
+1415635,Supports,949,Rigging Gaffer
+1406905,Supports,949,Music Editor
+75002,Supports,949,Music Supervisor
+60592,Supports,949,First Assistant Editor
+1433743,Supports,949,First Assistant Editor
+1405208,Supports,949,First Assistant Editor
+1432026,Supports,949,First Assistant Editor
+1401687,Supports,949,Sound Re-Recording Mixer
+16177,Supports,949,Sound Re-Recording Mixer
+1368864,Supports,949,Sound Re-Recording Mixer
+1338976,Supports,949,Sound Re-Recording Mixer
+1544638,Supports,949,Sound Re-Recording Mixer
+1576553,Supports,949,Stunts
+1457709,Supports,949,Technical Supervisor
+1576562,Supports,949,Stunts
+639,Supports,949,Executive Producer
+944682,Supports,949,Associate Producer
+376,Supports,949,Executive Producer
+1494667,Supports,949,Unit Production Manager
+212137,Supports,949,Assistant Director
+1535952,Supports,949,Casting Associate
+1392142,Supports,949,Set Costumer
+548451,Supports,949,Digital Effects Supervisor
+142157,Supports,949,Stunts
+1629423,Supports,949,Sound Recordist
+15178,Supports,949,Additional Soundtrack
+2226,Supports,11860,Director
+70846,Supports,11860,Screenplay
+2226,Supports,11860,Producer
+491,Supports,11860,Original Music Composer
+10640,Supports,11860,Editor
+2997,Supports,11860,Producer
+5490,Supports,11860,Casting
+1718,Supports,11860,Production Design
+11056,Supports,11860,Screenplay
+10199,Supports,11860,Makeup Artist
+142152,Supports,11860,Makeup Artist
+32489,Supports,11860,Makeup Artist
+83118,Supports,11860,Hairstylist
+1565199,Supports,11860,Hairstylist
+543194,Supports,11860,Co-Costume Designer
+5493,Supports,11860,Costume Design
+18173,Supports,11860,Set Decoration
+1467272,Supports,11860,Set Decoration
+1535947,Supports,11860,Art Department Coordinator
+91092,Supports,11860,Sound mixer
+1387195,Supports,11860,Sound Re-Recording Mixer
+1368864,Supports,11860,Sound Re-Recording Mixer
+1345595,Supports,11860,Sound Re-Recording Mixer
+1404218,Supports,11860,Supervising Sound Effects Editor
+1565200,Supports,11860,Sound Effects Editor
+1565201,Supports,11860,Sound Effects Editor
+1392125,Supports,11860,Supervising Sound Editor
+91096,Supports,11860,Boom Operator
+95836,Supports,11860,Dialogue Editor
+1555703,Supports,11860,Dialogue Editor
+1399061,Supports,11860,Dialogue Editor
+1464541,Supports,11860,Script Supervisor
+1391583,Supports,11860,Still Photographer
+1194262,Supports,11860,Still Photographer
+20844,Supports,11860,Camera Operator
+15131,Supports,11860,Director of Photography
+53346,Supports,11860,Casting Associate
+957570,Supports,11860,Assistant Costume Designer
+18513,Supports,11860,Assistant Costume Designer
+1177713,Supports,11860,Costume Supervisor
+1565207,Supports,11860,First Assistant Editor
+11058,Supports,11860,Executive Producer
+4184,Supports,11860,Executive Producer
+17220,Supports,11860,Art Direction
+1582414,Supports,11860,Production Manager
+1748870,Supports,11860,Production Supervisor
+4184,Supports,11860,Production Manager
+1853722,Supports,11860,Casting Assistant
+1720,Supports,11860,Casting Associate
+9028,Supports,11860,Location Manager
+1123059,Supports,11860,Location Manager
+1853729,Supports,11860,Production Coordinator
+1002581,Supports,11860,Production Coordinator
+2075,Supports,45325,Screenplay
+7775,Supports,45325,Screenplay
+18357,Supports,45325,Director
+72225,Supports,45325,Novel
+37710,Supports,9091,Director
+53300,Supports,9091,Screenplay
+56953,Supports,9091,Screenplay
+56032,Supports,9091,Producer
+56954,Supports,9091,Producer
+53299,Supports,9091,Producer
+4500,Supports,9091,Music
+37710,Supports,9091,Director of Photography
+11410,Supports,9091,Editor
+10702,Supports,710,Director
+9856,Supports,710,Characters
+10704,Supports,710,Screenplay
+10705,Supports,710,Screenplay
+10666,Supports,710,Producer
+10493,Supports,710,Executive Producer
+996,Supports,710,Original Music Composer
+1459,Supports,710,Songs
+10709,Supports,710,Director of Photography
+5056,Supports,710,Editor
+10496,Supports,710,Casting
+8524,Supports,710,Production Design
+10710,Supports,710,Art Direction
+10711,Supports,710,Art Direction
+10712,Supports,710,Art Direction
+8526,Supports,710,Set Decoration
+10714,Supports,710,Costume Design
+69678,Supports,710,Producer
+10706,Supports,710,Producer
+10703,Supports,710,Story
+1593072,Supports,710,Assistant Art Director
+10788,Supports,710,Assistant Art Director
+1727828,Supports,710,Construction Coordinator
+1325211,Supports,710,Supervising Art Director
+18457,Supports,710,Casting
+5062,Supports,710,Music Editor
+1532215,Supports,710,Armorer
+1398136,Supports,710,Script Supervisor
+40747,Supports,710,Camera Operator
+1408816,Supports,710,Camera Operator
+1485317,Supports,710,Camera Operator
+1189807,Supports,710,Camera Operator
+1425502,Supports,710,Still Photographer
+1427545,Supports,710,Still Photographer
+1727833,Supports,710,Gaffer
+1727834,Supports,710,Gaffer
+1727835,Supports,710,Gaffer
+1081073,Supports,710,Special Effects Supervisor
+1392704,Supports,710,Visual Effects Coordinator
+1413507,Supports,710,Visual Effects Editor
+38362,Supports,710,Dialogue Editor
+1340118,Supports,710,Sound Re-Recording Mixer
+1561880,Supports,710,Sound Re-Recording Mixer
+40818,Supports,710,Sound Re-Recording Mixer
+9854,Supports,710,Supervising Sound Editor
+1576017,Supports,710,Sound Recordist
+2702,Supports,9087,Director of Photography
+3026,Supports,9087,Director
+3026,Supports,9087,Producer
+3032,Supports,9087,Editor
+9251,Supports,9087,Music
+13520,Supports,9087,Screenplay
+4057,Supports,12110,Editor
+14639,Supports,12110,Screenplay
+14639,Supports,12110,Director
+14639,Supports,12110,Producer
+53839,Supports,12110,Music
+53840,Supports,12110,Director of Photography
+59979,Supports,12110,Executive Producer
+67674,Supports,12110,Screenplay
+71303,Supports,12110,Screenplay
+488,Supports,21032,Producer
+489,Supports,21032,Producer
+12061,Supports,21032,Writer
+21879,Supports,21032,Director
+106850,Supports,21032,Writer
+570268,Supports,21032,Writer
+991160,Supports,21032,Writer
+1205985,Supports,21032,Animation
+1447385,Supports,21032,Animation
+1447593,Supports,21032,Animation
+1448089,Supports,21032,Animation
+1451229,Supports,21032,Background Designer
+1457635,Supports,21032,Special Effects
+1462665,Supports,21032,Animation Manager
+1152,Supports,10858,Director
+1152,Supports,10858,Screenplay
+5379,Supports,10858,Producer
+491,Supports,10858,Original Music Composer
+17786,Supports,10858,Screenplay
+149,Supports,10858,Director of Photography
+3189,Supports,10858,Editor
+1152,Supports,10858,Producer
+2044,Supports,1408,Director of Photography
+8383,Supports,1408,Set Decoration
+391,Supports,1408,Production Design
+3986,Supports,1408,Executive Producer
+7228,Supports,1408,Producer
+6044,Supports,1408,Casting
+10685,Supports,1408,Producer
+14590,Supports,1408,Costume Design
+16938,Supports,1408,Director
+16938,Supports,1408,Producer
+22706,Supports,1408,Producer
+22706,Supports,1408,Story
+21203,Supports,1408,Story
+20061,Supports,1408,Screenplay
+1224549,Supports,1408,Screenplay
+1368867,Supports,1408,Special Effects Supervisor
+1032,Supports,524,Director
+7170,Supports,524,Producer
+149,Supports,524,Director of Photography
+3661,Supports,524,Editor
+2242,Supports,524,Casting
+2366,Supports,524,Production Design
+1032,Supports,524,Screenplay
+7163,Supports,524,Screenplay
+7163,Supports,524,Novel
+7531,Supports,524,Producer
+1614,Supports,4584,Director
+32982,Supports,4584,Novel
+7056,Supports,4584,Screenplay
+11058,Supports,4584,Producer
+2226,Supports,4584,Executive Producer
+9152,Supports,4584,Music
+7021,Supports,4584,Director of Photography
+948439,Supports,4584,Co-Producer
+4489,Supports,9273,Director
+29901,Supports,9273,Characters
+4489,Supports,9273,Screenplay
+4507,Supports,9273,Executive Producer
+57097,Supports,9273,Producer
+57098,Supports,9273,Producer
+4700,Supports,9273,Producer
+43393,Supports,9273,Original Music Composer
+6490,Supports,9273,Director of Photography
+14457,Supports,9273,Editor
+1007395,Supports,9273,Stunt Coordinator
